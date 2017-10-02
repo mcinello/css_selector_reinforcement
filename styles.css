@@ -1,0 +1,19 @@
+p
+{
+  color: pink;
+}
+
+a:hover
+{
+  color: #85cae3;
+}
+
+h1
+{
+  font-size: 3em;
+}
+
+ul img
+{
+  display: inline-block;
+}
